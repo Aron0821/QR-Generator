@@ -1,1 +1,1 @@
-QR Generator
+# QR Generator
